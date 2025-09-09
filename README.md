@@ -1,3 +1,8 @@
+# Autores del Proyecto
+1 - Juan Ruiz
+2 - Juan Rodriguez
+3 - Eladio Tortolero
+
 # Calculadora de Optimización No Lineal
  
  Aplicación de escritorio construida en Python y Flet que resuelve problemas de optimización no lineal con y sin restricciones. Implementa varios métodos (simbólicos y numéricos), permite comparar resultados y ofrece visualización 2D/3D. Diseñada para el Parcial VI de Métodos Cuantitativos, con enfoque en POO y demostración en vivo.
