@@ -1,0 +1,4 @@
+objetivo: x**2 + y**2
+variables: x,y
+restricciones:
+  x + y - 1 = 0

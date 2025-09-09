@@ -1,0 +1,5 @@
+objetivo: (x-3)**2 + (y+2)**2 + 0.5*(x*y)
+variables: x,y
+restricciones:
+  x >= -2
+  y >= -3

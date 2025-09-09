@@ -1,0 +1,7 @@
+objetivo: (x-2)**2 + (y-1)**2
+variables: x,y
+restricciones:
+  x >= 0
+  x <= 5
+  y >= -1
+  y <= 4
